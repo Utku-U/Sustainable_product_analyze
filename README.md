@@ -12,3 +12,5 @@ This study is structured around the six core stages of data analysis:
 5. **Share:** Communicating findings and interpreting results.
 6. **Act:** Applying the insights gained to solve the initial problem.
 
+## Setup
+pip install -r requirements.txt
