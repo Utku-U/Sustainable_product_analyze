@@ -14,3 +14,6 @@ This study is structured around the six core stages of data analysis:
 
 ## Setup
 pip install -r requirements.txt
+
+## Source & Domain information
+https://data.world/jash1804/sustainable-product-optimization-dataset-spod/workspace/project-summary?agentid=jash1804&datasetid=sustainable-product-optimization-dataset-spod
