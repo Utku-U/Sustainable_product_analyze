@@ -23,7 +23,7 @@ This project focuses on analyzing a synthetic dataset of sustainable products. T
 ## Results
 The models are evaluated based on test data and OOB (Out-of-Bag) scores as follows:
 
-| Model | Başarı Oranı (Accuracy) | Notlar |
+| Model | Accuracy |Notlar |
 | :--- | :---: | :--- |
 | **Bagging Classifier (OOB)** | **%94.8** | En Yüksek Performans (Yüksek genelleme yeteneği) |
 | Voting Classifier | %90.5 | Dengeli ve güvenilir tahminleme |
