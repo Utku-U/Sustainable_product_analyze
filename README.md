@@ -34,12 +34,12 @@ The models are evaluated based on test data and OOB (Out-of-Bag) scores as follo
 
 **Genel Test Doğruluğu (Accuracy):** `%94.83`
 
-| Sınıf / Metrik | Precision (Kesinlik) | Recall (Duyarlılık) | F1-Score | Support (Destek) |
+| Class / Metric | Precision | Recall | F1-Score | Support |
 | :--- | :---: | :---: | :---: | :---: |
-| **0 (Optimum Değil)** | 0.95 | 0.98 | **0.96** | 7106 |
-| **1 (Optimum)** | 0.95 | 0.89 | **0.92** | 3379 |
+| **0 Not Optimum** | 0.95 | 0.98 | **0.96** | 7106 |
+| **1 Optimum** | 0.95 | 0.89 | **0.92** | 3379 |
 | | | | | |
-| **Genel Doğruluk (Accuracy)** | - | - | **0.95** | 10485 |
+| **Accuracy** | - | - | **0.95** | 10485 |
 | **Macro Avg** | 0.95 | 0.93 | 0.94 | 10485 |
 | **Weighted Avg** | 0.95 | 0.95 | **0.95** | 10485 |
 
