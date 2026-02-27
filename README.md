@@ -32,7 +32,7 @@ The models are evaluated based on test data and OOB (Out-of-Bag) scores as follo
 | Decision Tree (Baseline) | %80.3 | 
 | Random Forest | %77.7 | 
 
-### **Bagging Classifier Performance Report**
+### **Bagging Classifier (OOB) Performance Report**
 
 | Class / Metric | Precision | Recall | F1-Score | Support |
 | :--- | :---: | :---: | :---: | :---: |
