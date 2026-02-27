@@ -12,6 +12,10 @@ This study is structured around the six core stages of data analysis:
 5. **Share:** Communicating findings and interpreting results.
 6. **Act:** Applying the insights gained to solve the initial problem.
 
+**Business Problem:** This involves using machine learning and deep learning models (both broad and deep learning) to predict whether a product is commercially viable (optimum) under all environmental and economic constraints.
+
+
+
 ## Setup
 pip install -r requirements.txt
 
