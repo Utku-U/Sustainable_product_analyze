@@ -27,6 +27,7 @@ The models are evaluated based on test data and OOB (Out-of-Bag) scores as follo
 | :--- | :---: | 
 | **Bagging Classifier (OOB)** | **%94.8** | 
 | Voting Classifier | %90.5 | 
+| Bagging Classifier | %86.8 |
 | Wide and Deep | %82.0 | 
 | Decision Tree (Baseline) | %80.3 | 
 | Random Forest | %77.7 | 
