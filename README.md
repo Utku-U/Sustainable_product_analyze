@@ -4,7 +4,11 @@ This project focuses on analyzing a synthetic dataset of sustainable products. T
 
 ## **Business Problem:**
 
-This involves using machine learning and deep learning models (both broad and deep learning) to predict whether a product is commercially viable (optimum) under all environmental and economic constraints.
+- This involves using machine learning and deep learning models (both broad and deep learning) to predict whether a product is commercially viable (optimum) under all environmental and economic constraints.
+- What are the three most important factors that ensure Is_Optimum=Yes?
+
+
+## 
 
 
 
