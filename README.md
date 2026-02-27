@@ -30,6 +30,19 @@ The models are evaluated based on test data and OOB (Out-of-Bag) scores as follo
 | Decision Tree (Baseline) | %80.3 | Şeffaf ve hızlı karar kuralları |
 | Random Forest | %77.7 | Hiperparametre optimizasyonu potansiyeli |
 
+### **Bagging Classifier Detaylı Performans Raporu**
+
+**Genel Test Doğruluğu (Accuracy):** `%94.83`
+
+| Sınıf / Metrik | Precision (Kesinlik) | Recall (Duyarlılık) | F1-Score | Support (Destek) |
+| :--- | :---: | :---: | :---: | :---: |
+| **0 (Optimum Değil)** | 0.95 | 0.98 | **0.96** | 7106 |
+| **1 (Optimum)** | 0.95 | 0.89 | **0.92** | 3379 |
+| | | | | |
+| **Genel Doğruluk (Accuracy)** | - | - | **0.95** | 10485 |
+| **Macro Avg** | 0.95 | 0.93 | 0.94 | 10485 |
+| **Weighted Avg** | 0.95 | 0.95 | **0.95** | 10485 |
+
 
 ## Setup
 pip install -r requirements.txt
