@@ -47,5 +47,5 @@ The models are evaluated based on test data and OOB (Out-of-Bag) scores as follo
 ## Setup
 pip install -r requirements.txt
 
-## Source & Domain information
+## Data source & Domain information
 https://data.world/jash1804/sustainable-product-optimization-dataset-spod/workspace/project-summary?agentid=jash1804&datasetid=sustainable-product-optimization-dataset-spod
